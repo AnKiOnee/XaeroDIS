@@ -1,0 +1,7 @@
+name: XaeroForceDisabler
+version: '2.0-Paper26.3'
+main: drqad.fairXaero.XaeroForceDisabler
+api-version: '26.3'
+author: drqad
+description: Принудительное отключение функций модификаций Xaero для Paper 26.3.
+bootstrapper: drqad.fairXaero.XaeroForceDisabler

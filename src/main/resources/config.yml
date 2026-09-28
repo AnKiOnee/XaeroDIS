@@ -1,0 +1,6 @@
+# Настройки блокировки функций Xaero Minimap / WorldMap
+settings:
+  disable-minimap: false
+  disable-worldmap: false
+  disable-radar: true
+  disable-cave-mode: true
