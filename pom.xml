@@ -15,10 +15,9 @@
     </properties>
 
     <repositories>
-        <!-- Репозиторий PaperMC для версии 26.3 -->
         <repository>
             <id>papermc-repo</id>
-            <url>https://papermc.io</url>
+            <url>https://repo.papermc.io/repository/maven-public/</url>
         </repository>
     </repositories>
 
@@ -26,7 +25,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>26.3-R0.1-SNAPSHOT</version>
+            <version>26.3.build.49-alpha</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
